@@ -1,0 +1,32 @@
+mobile:
+- endpoints:
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
+cdn:
+- endpoints:
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
+chapter:
+- endpoints:
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
+rocketchat-bot:
+- endpoints:
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - invalid_event
