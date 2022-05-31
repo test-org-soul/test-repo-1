@@ -29,4 +29,3 @@ rocketchat-bot:
   - push
   - pull_request
   - issue_comment
-  - invalid_event
