@@ -6,6 +6,7 @@ mobile:
   - pull_request
   - issue_comment
   - repository
+  - inavlid-event1
 cdn:
 - endpoints:
   events:
@@ -22,6 +23,7 @@ chapter:
   - pull_request
   - issue_comment
   - repository
+  - invalid-event2
 rocketchat-bot:
 - endpoints:
   events:
