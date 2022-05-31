@@ -1,0 +1,9 @@
+uwh_org_level_hooks:
+- endpoints:
+  - https://test-prefix-gec-google/github-webhook/
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
