@@ -1,0 +1,36 @@
+bitcoin:
+- endpoints:
+  - https://test-prefix-gec-bitcoin/github-webhook/
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
+bips:
+- endpoints:
+  - https://test-prefix-gec-bitcoin/github-webhook/
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
+libbase58:
+- endpoints:
+  - https://test-prefix-gec-bitcoin/github-webhook/
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
+libblkmaker:
+- endpoints:
+  - https://test-prefix-gec-bitcoin/github-webhook/
+  events:
+  - ping
+  - push
+  - pull_request
+  - issue_comment
+  - repository
